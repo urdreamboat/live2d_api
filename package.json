@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akilarlxh/live2d_api.git"
+    "url": "git+https://github.com/urdreamboat/live2d_api.git"
   },
   "keywords": [
     "live2d",
@@ -19,7 +19,7 @@
   "author": "akilarlxh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Akilarlxh/live2d_api/issues"
+    "url": "https://github.com/urdreamboat/live2d_api/issues"
   },
-  "homepage": "https://github.com/Akilarlxh/live2d_api#readme"
+  "homepage": "https://github.com/urdreamboat/live2d_api#readme"
 }
